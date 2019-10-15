@@ -1,0 +1,108 @@
+,id,username,age,gender,hispanic,number,race,movie,country,friend,country_list
+0,419,A36JZTXF9WBWD0,20-29,Female,No,4,Black,1-10,none,1-10,
+1,420,AD1FDB9A61LMS,20-29,Male,Yes,4,White,1-10,none,1-10,
+2,421,AGDJB8B8CDZ71,30-39,Male,No,4,White,1-10,none,50+,
+3,422,A35TOZLHRABJR5,30-39,Female,No,4,White,1-10,none,50+,
+4,423,A190P4JHYVT7VI,20-29,Female,Yes,4,White,1-10,none,1-10,
+5,424,A2E9KS4RK6T8CW,30-39,Male,No,4,White,1-10,none,1-10,
+6,425,A3PK2IBIYI3B8L,20-29,Male,Yes,4,Natives,1-10,none,50+,No
+7,426,A2BFBPUWOY7ZQ1,60+,Male,No,4,White,none,none,50+,none
+8,427,A1XIJE772WYRNJ,40-49,Female,No,4,White,1-10,none,11-50,
+9,428,A26BN3EJZYQFZ3,40-49,Female,No,4,White,10+,none,50+,
+10,429,A3HE3DWSSVLO75,20-29,Female,No,4,White,1-10,30+,50+,"Hong Kong, Thailand, Japan"
+11,430,A12S4E3AJF8JSK,20-29,Male,No,4,White,none,none,none,
+12,431,A1V6MPL7396OE4,50-59,Male,No,4,White,1-10,none,1-10,
+13,432,A2363SY3BR3FGW,20-29,Male,No,4,Black,1-10,1-10,50+,
+14,433,A8AG71WQHPTYN,30-39,Male,No,4,White,1-10,none,11-50,
+15,434,A2P8VR6J0Q7GXS,20-29,Female,No,4,White,none,none,1-10,
+16,435,A1561P9VVA3C1C,40-49,Female,No,4,White,none,none,1-10,
+17,436,A3P57IUDHUKNCE,20-29,Male,No,4,Black,none,none,none,
+18,437,A32C9R9CMF8P4O,20-29,Female,No,4,White,1-10,none,11-50,
+19,438,ALV4DAF8DIJ37,30-39,Male,No,4,White,none,none,1-10,
+20,439,A1QEQOI98976S0,30-39,Male,No,4,Black,1-10,none,1-10,
+21,440,A2RTQ2U1VT7JQ9,20-29,Female,Yes,4,Black,10+,1-10,50+,Tokyo
+22,441,A2HFFHU98168VH,40-49,Male,Yes,4,White,1-10,none,11-50,
+23,442,A37LQHDHZLKVCH,30-39,Male,No,4,White,1-10,none,50+,
+24,443,A14EI5AEBM6AUX,20-29,Male,No,4,White,10+,none,50+,
+25,444,A2NBVTY6FLBEAF,30-39,Male,No,4,Asian,10+,30+,50+,Thailand
+26,445,AGXQ75UCTVAC2,50-59,Female,No,4,White,1-10,none,1-10,no
+27,446,A1O2ZY5EGJ7IW6,30-39,Male,Yes,4,White,1-10,none,50+,
+28,447,A1DK3FVV13STX2,50-59,Female,No,4,White,1-10,none,50+,
+29,448,A69RUK0SZV067,30-39,Male,No,4,White,1-10,none,50+,
+30,449,AIUKV0KVALMY6,30-39,Female,No,4,White,1-10,none,1-10,
+31,450,A22D47BPISVGL7,40-49,Male,No,4,White,1-10,none,11-50,japa
+32,451,A3V8C77FN4FLUA,20-29,Female,Yes,4,White,1-10,none,1-10,
+33,452,A2QPMJ4GADLUW2,30-39,Male,No,4,White,10+,none,11-50,
+34,453,A3SX7CB4GC3G6J,40-49,Female,No,4,Black,1-10,none,11-50,
+35,454,A70TBKPGWQZO4,20-29,Male,No,4,White,1-10,1-10,1-10,
+36,455,A3CPRNJERZC1HK,30-39,Female,No,4,White,1-10,none,50+,
+37,456,A3ORCMW760Y9UF,30-39,Male,No,4,White,1-10,none,11-50,
+38,457,AXXKYIAMOWOUE,20-29,Female,No,4,White,10+,30+,50+,Japan
+39,458,A22RODW8MWK0QF,50-59,Female,No,4,White,1-10,none,11-50,
+40,459,A16AN15QQ3EDBY,30-39,Male,No,4,Black,1-10,none,50+,
+41,460,A2RD0YJQM299JS,60+,Male,No,4,White,1-10,30+,50+,"Japan, Republic of China, South Korea; also Thailand and the Philippines if considered Asian by you"
+42,461,A340GED9S6SFCK,20-29,Female,No,4,White,none,none,1-10,
+43,462,A3F99X0TW7OCLP,30-39,Male,No,4,White,1-10,none,11-50,
+44,463,AM0ICBSM87D2F,20-29,Male,No,4,White,1-10,none,11-50,
+45,464,A2EDX4E7Y3PM8D,30-39,Female,No,4,White,1-10,none,11-50,
+46,465,A122XBTHLAFX51,50-59,Female,No,4,White,1-10,none,11-50,
+47,466,A3989GRV3UV5VW,50-59,Male,No,4,White,10+,11-30,50+,"Vietnam, China"
+48,467,AC7UJN8O11QRR,20-29,Male,Yes,4,White,none,none,1-10,
+49,468,A2B2HQHFBYLTXU,30-39,Male,No,4,White,10+,none,50+,
+50,469,AGRKG3YT3KMD8,30-39,Male,No,4,White,1-10,none,11-50,
+51,470,APAR2A1F4RB0N,60+,Female,No,4,White,none,none,none,
+52,471,A3FPO3AQAHFMT,60+,Female,No,4,White,1-10,none,50+,
+53,472,A2AOD3GOS9NKFC,20-29,Male,No,4,White,1-10,none,none,
+54,473,A257Q6V67C6AMR,40-49,Male,Yes,4,White,10+,none,11-50,
+55,474,A5N551A5UQ4G2,Under 20,Male,No,4,Black,1-10,none,none,
+56,475,AWKXNVQD12EHT,30-39,Female,Yes,4,White,1-10,1-10,1-10,
+57,476,A79T836JTU1M9,50-59,Female,No,4,White,1-10,none,11-50,
+58,477,A59L67EZKMC3V,40-49,Female,No,4,White,1-10,none,50+,
+59,478,A182J6QRCJP228,30-39,Female,No,4,White,none,none,1-10,
+60,479,AWSPLOHUXCOWY,40-49,Female,No,4,Black,1-10,none,1-10,
+61,480,A3T7R45ZSZXV9Z,30-39,Female,No,4,White,none,none,1-10,
+62,481,AGPABTXVE7M7B,20-29,Female,No,4,White,1-10,11-30,50+,Korea
+63,482,AKPMY2J4MWYQD,40-49,Male,Yes,4,White,10+,30+,11-50,"Japan, Hong Kong (China), Singapore"
+64,483,A2S8FJDTKMYS68,30-39,Female,No,4,White,1-10,none,1-10,
+65,484,A1K1QRPZD3OU1B,40-49,Female,No,4,White,none,none,1-10,
+66,485,AVSM4NLTTPFRM,20-29,Female,No,4,Asian,1-10,1-10,50+,India
+67,486,AFYZGWBG4FHQQ,30-39,Female,No,4,Natives,1-10,none,11-50,
+68,487,A26DJKKQ1MNIKQ,40-49,Female,No,4,White,1-10,none,11-50,
+69,488,A82T09H58YJHL,30-39,Male,No,4,Black,1-10,none,50+,
+70,489,A3SMJ88V58YGAI,60+,Female,No,4,White,1-10,none,1-10,
+71,490,A2WYIMJUN06H3G,20-29,Male,No,4,Asian,10+,30+,50+,India
+72,491,A337VY6C7PZWA3,30-39,Female,Yes,4,White,1-10,none,1-10,
+73,492,ACZTRE28KO3XF,60+,Female,No,4,White,none,none,11-50,
+74,493,AV82XILD9BG1E,40-49,Male,No,4,White,1-10,none,1-10,
+75,494,ASDOYPL3T2CFL,40-49,Male,No,4,Asian,1-10,30+,50+,"Nepal, India"
+76,495,A2KOFX803K5GKA,20-29,Male,No,4,White,1-10,none,50+,
+77,496,A141OEKVSKTOP9,50-59,Female,No,4,White,1-10,none,11-50,
+78,497,A38AHDQA5CJGXI,20-29,Male,No,4,White,none,none,11-50,
+79,498,AWE9A4ZOP9LNU,30-39,Male,No,4,White,1-10,none,1-10,
+80,499,AWE9A4ZOP9LNU,30-39,Male,No,4,White,1-10,none,1-10,
+81,500,A1HSRWOEK6ZJPR,20-29,Female,No,4,White,1-10,none,11-50,
+82,501,A3F5WTYAU3QNOZ,Under 20,Male,No,4,White,none,none,none,
+83,502,A3C8NUIBNZYMT2,20-29,Male,Yes,4,White,1-10,none,50+,
+84,503,A1RWNYJA5X25YH,60+,Female,No,4,White,1-10,none,50+,
+85,504,A21TGZU9EXJ272,40-49,Female,No,4,White,10+,none,1-10,
+86,505,A79JWYXJ8RDLP,40-49,Female,No,4,White,10+,30+,50+,"South Korea, Japan, China"
+87,506,AHUO072N55J8H,50-59,Female,No,4,White,none,30+,1-10,Korea
+88,507,ATIAMDY7P54P,60+,Female,No,4,Black,1-10,none,50+,
+89,508,A20WGFZKVEN3FB,20-29,Female,No,4,Black,1-10,none,50+,
+90,509,AT5I4VF891S7I,50-59,Female,No,4,White,1-10,none,50+,
+91,510,A1D0DHEF8HCABM,30-39,Male,Yes,4,Black,1-10,1-10,1-10,None
+92,511,ABUFAREJAN84G,20-29,Male,No,4,Black,1-10,none,50+,
+93,512,A2B1YSMEHN1G2K,20-29,Female,No,4,White,1-10,none,11-50,
+94,513,A2FSHCRZ3NBN6G,20-29,Female,No,4,White,1-10,30+,50+,Japan
+95,514,A2R8V48VVX1BNO,20-29,Male,No,4,White,1-10,none,1-10,
+96,515,A34RYC7DY7OJM6,20-29,Female,No,4,Asian,1-10,30+,50+,"Hong Kong, S. Korea, Philppines"
+97,516,A3AT6ZR2Z4J49Z,20-29,Female,No,4,White,1-10,none,1-10,
+98,517,A20QXCW2IQ1JTI,40-49,Female,No,4,White,1-10,none,1-10,
+99,518,ATRRVQWZZ87QA,30-39,Male,Yes,4,White,1-10,30+,11-50,Taiwan
+100,519,A2PK2JP60TTO7N,50-59,Female,No,4,White,1-10,1-10,1-10,China- Japan
+101,520,A230GPTWWF3SE7,20-29,Female,No,4,Asian,10+,none,50+,
+102,521,A27V6J6KOHWK2P,40-49,Female,Yes,4,White,1-10,none,11-50,
+103,522,AFO5392X0R1E5,50-59,Female,No,4,White,1-10,none,50+,
+104,523,A1V6S7TJGPJ7MP,20-29,Female,Yes,4,White,1-10,none,11-50,
+105,524,A2Q1WQ4SKCA7VS,40-49,Female,No,4,White,none,none,11-50,
+106,525,AKJRJZKGEO8ST,20-29,Female,Yes,4,White,none,none,50+,
